@@ -31,7 +31,7 @@ if  (eval {require Thread;1;}) {
 }
 
 
-my $mydir = "/content/project_files//nonbreaking_prefixes";
+my $mydir = "$RealBin/nonbreaking_prefixes";
 
 
 my %NONBREAKING_PREFIX = ();
